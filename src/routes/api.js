@@ -11,17 +11,17 @@ router.post("/insertProduct", productController.insertProduct)
 
 
 // R = Read 
-router.get("/readProduct", productController.readProduct)
+router.post("/readProduct", productController.readProduct)
 
 
 
 // U = Update 
-router.post("/updateProduct", productController.updateProduct)
+router.post("/updateProduct/:id", productController.updateProduct)
 
 
 
 // D = Delete 
-router.get("/deleteProduct", productController.deleteProduct)
+router.delete("/deleteProduct/:id", productController.deleteProduct)
 
 
 module.exports = router;
