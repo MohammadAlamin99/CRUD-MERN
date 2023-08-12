@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7cab544-3ca7-42cf-a03f-5505d2f8627c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2TkncdFz9uGAYchwMpC3OJvsIQS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7cab544-3ca7-42cf-a03f-5505d2f8627c" name="Changes" comment="" />
+      <created>1691596026842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691596026842</updated>
+      <workItem from="1691596028435" duration="14000" />
+      <workItem from="1691596048751" duration="213000" />
+      <workItem from="1691596361020" duration="120000" />
+      <workItem from="1691597043151" duration="17000" />
+      <workItem from="1691597133055" duration="237000" />
+      <workItem from="1691598473528" duration="711000" />
+      <workItem from="1691663269516" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/sift/src/operations.js" />
+        <option value="$PROJECT_DIR$/node_modules/sift/src/operations.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/sift/src/operations.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/sift/src/utils.js" />
+        <option value="$PROJECT_DIR$/node_modules/sift/src/utils.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/sift/src/utils.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/sift/src/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/sift/src/index.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/sift/src/index.d.ts" />
+      </list>
+    </option>
+  </component>
+</project>
