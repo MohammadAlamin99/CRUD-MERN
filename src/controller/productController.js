@@ -34,11 +34,12 @@ exports.updateProduct = async(req, res)=>{
     let id = req.params.id;
     let query = {_id:id};
     let reqBody = req.body;
-    try{
-        let data = await productModel.updateOne(query, reqBody)
-        res.status(200).json({status:"success", data})
-    }catch(err){
-        res.status(400).json({status:"faild", err})
+    try {
+        let data = await productModel.updateOne(query, reqBody);
+        res.status(200).json({status:"success", data});
+    }
+    catch (err) {
+        res.status(400).json({status:'fail', err});
     }
 }
 // D = Delete

@@ -49,13 +49,12 @@ mongoose.connect("mongodb://localhost:27017/CRUD")
 // managing Front end routing
 app.use(express.static('client/dist'))
 app.get("*", function(req, res){
-    req.sendFile(path.resolve(__dirname, 'client', 'dist', 'index.html'))
+    res.sendFile(path.resolve(__dirname, 'client', 'dist', 'index.html'))
 })
-
 
 //managing backend routing
 
-app.use('api/v1', router);
+app.use('/api/v1', router);
 
 
 
